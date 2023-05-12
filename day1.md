@@ -17,8 +17,11 @@
 ### AND GATE
 #### CLICK HERE TO VIEW IN SITE
 #### CIRCUIT DIAGRAM
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day3-11.png)
 #### SCHEMATIC DIAGRAM
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day3-12.png)
 #### COMPONENTS REQUIRED
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day3-13.png)
 ## EXP 2
 ### BLINKING LED USING ARDUINO
 #### CLICK HERE TO VIEW IN SITE
