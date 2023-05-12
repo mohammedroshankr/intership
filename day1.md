@@ -6,10 +6,12 @@
 ### BLINKING LED
 #### CLICK HERE TO VIEW IN SITE
 #### CIRCUIT DIAGRAM 
+![INMG](https://github.com/ameeshilliasmv/intership/blob/main/img/EXP1.png)
 ## EXP 2
 ### BLINKING LED USING PUSHBUTTON 
 #### CLICK HERE TO VIEW IN SITE
 #### CIRCUIT DIAGRAM
+![IMG](https://github.com/ameeshilliasmv/intership/blob/main/img/exp 2.png)
 # DAY 3
 ## EXP 1
 ### AND GATE
