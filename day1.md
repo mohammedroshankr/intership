@@ -118,3 +118,13 @@ void loop()
   delay(1000);
 }
 ```
+## EXP 2
+### DISPLAY 0-9 USING 7 SEGMENT DISPLAY
+#### [CLICK HERE TO VIEW IN SITE]
+#### CIRCUIT DIAGRAM
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY5-21.png)
+#### SCHEMATIC DIAGRAM 
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY5-22.png)
+#### COMPONENTS REQUIRED
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY5-23.png)
+#### CODE 
