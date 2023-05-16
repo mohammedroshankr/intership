@@ -92,6 +92,36 @@ void loop()
 ![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day3-52.png)
 #### COMPONENTS REQUIRED
 ![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day3-53.png)
+# DAY 4
+## EXP 1
+### SIMPLE CALCULATOR PROGRAM USNG BLOCKLY
+#### PROGRAM
+
+#### CODE
+```
+var num_1, num_2, operator;
+
+// Describe this function...
+function packet() {
+  for (var count = 0; count < 10; count++) {
+    num_1 = Number(window.prompt('enter first number'));
+    num_2 = window.prompt('enter the second number');
+    operator = window.prompt('enter the operator');
+    if (operator == '+') {
+      window.alert(num_1 + num_2);
+    } else if (operator == '-') {
+      window.alert(num_1 - num_2);
+    } else if (operator == '*') {
+      window.alert(num_1 * num_2);
+    } else if (operator == '/') {
+      window.alert(num_1 / num_2);
+    }
+  }
+}
+
+
+packet();
+```
 # DAY 5 
 ## EXP 1 
 ### POTENTIOMETER READING
