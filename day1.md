@@ -96,7 +96,7 @@ void loop()
 ## EXP 1
 ### SIMPLE CALCULATOR PROGRAM USNG BLOCKLY
 #### PROGRAM
-![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day4-1.png)
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY4-1.png)
 #### CODE
 ```
 var num_1, num_2, operator;
