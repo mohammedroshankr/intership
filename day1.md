@@ -166,6 +166,14 @@ void setup(){
   pinMode(3, OUTPUT);
   pinMode(4, OUTPUT);
   pinMode(5, OUTPUT);
+    first introduced of the 3d printing
+    creating models by the tinkercad 3D modeling
+    start with basic shapes
+    also cover the previous design's
+    created a base and top cover for the flower bottel by using Tinkercad
+    then introduced the 3D printer
+    also printed a design (duration 19 min)
+
   pinMode(6, OUTPUT);
   pinMode(7, OUTPUT);
   pinMode(8, OUTPUT);
@@ -254,3 +262,16 @@ void loop()
   delay(2000);
 } 
 ```
+# DAY 6
+## BASICS OF 3D PRINTING CONDUCTED BY 3RD YEAR ROBORTICS STUDENTS
+
+### FIRST INTRODUCED OF THE 3D PRINTING
+### CREATING MODELS BY THE TINKERCAD 3D MODELING
+### START WITH THE BASIC SHAPES
+### ALSO COVER THE PRIVIOUS DESING'S 
+### CREATED A BASE AND TOP COVER FOR THE CAR BY USING TINKERCAD 
+### THEN INDRODUSED THE 3D PRINTER 
+### ALSO PRINTED A DESIGN (DURATION 19 MINUTE)
+# DAY 7 
+# INTRODUSED THE YESKAWA ARM ROBOT
+#
