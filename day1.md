@@ -276,4 +276,4 @@ void loop()
 ## INTRODUSED THE YESKAWA ARM ROBOT
 ![IMG](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY%207.jpeg)
 ###  1.THE INDRODUCTION OF YASKAWA AR1440
-### Then introduced about the EV (electric vehicle) THEN INDRODUSED ABOUT THE ELECTRIC VEHICLE (EV)
+### THEN INDRODUSED ABOUT THE ELECTRIC VEHICLE (EV)
