@@ -81,7 +81,7 @@ void loop()
 
 ```
 ## EXP 4
-### DANCING LED USING ARDUINO 2 https://www.tinkercad.com/things/9nBmNP5Dtww-0-to-9-display-using-potentiometer/editel
+### DANCING LED USING ARDUINO 2 
 #### [CLICK HERE TO VIEW IN SITE](https://www.tinkercad.com/things/k6dwPI0tLT2-dancing-led-using-arduino-2/editel)
 #### CIRCUIT DIAGRAM
 ![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY3-41.png)
