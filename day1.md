@@ -43,7 +43,7 @@
 ![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY3-33.png)
 #### CODE
 ## EXP 4
-### DANCING LED USING ARDUINO 2 
+### DANCING LED USING ARDUINO 2 https://www.tinkercad.com/things/9nBmNP5Dtww-0-to-9-display-using-potentiometer/editel
 #### [CLICK HERE TO VIEW IN SITE](https://www.tinkercad.com/things/k6dwPI0tLT2-dancing-led-using-arduino-2/editel)
 #### CIRCUIT DIAGRAM
 ![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY3-41.png)
@@ -149,7 +149,7 @@ void loop()
 }
 ```
 ## EXP 2
-### DISPLAY 0-9 USING 7 SEGMENT DISPLAY
+### DISPLAY 0-9 USING 7 SEGMENT 
 #### [CLICK HERE TO VIEW IN SITE](https://www.tinkercad.com/things/k6dwPI0tLT2-0-to-9-display/editel)
 #### CIRCUIT DIAGRAM
 ![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY5-21.png)
@@ -256,7 +256,7 @@ void loop()
   digitalWrite(3,LOW);
   digitalWrite(4,LOW);
   digitalWrite(5,LOW);
-  digitalWrite(6,HIGH);
+  digitalWrite(6,HIGH);https://www.tinkercad.com/things/9nBmNP5Dtww-0-to-9-display-using-potentiometer/editel
   digitalWrite(7,LOW);
   digitalWrite(8,LOW);
   delay(2000);
@@ -277,3 +277,114 @@ void loop()
 ![IMG](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY%207.jpeg)
 ###  1.THE INDRODUCTION OF YASKAWA AR1440
 ### THEN INDRODUSED ABOUT THE ELECTRIC VEHICLE (EV)
+# DAY 8
+## EXP 1
+### DISPLAY 0-9 USING 7 SEGMENT AND POTENTIOMETER
+#### [CLICK HERE TO VIEW IN SITE](https://www.tinkercad.com/things/9nBmNP5Dtww-0-to-9-display-using-potentiometer/editel)
+#### CIRCUIT DIAGRAM
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY8-11.png)
+#### SCHEMATIC DIAGRAM 
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY8-12.png)
+#### COMPONENTS REQUIRED 
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY8-13.png)
+#### CODE
+```
+const int potPin=A0;
+
+void setup(){
+  Serial.begin(9600);
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+  pinMode(4, OUTPUT);
+  pinMode(5, OUTPUT);
+  pinMode(6, OUTPUT);
+  pinMode(7, OUTPUT);
+  pinMode(8, OUTPUT);
+}
+void loop()
+{ 
+  int potvalue = analogRead(potPin);
+  Serial.println(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(8,HIGH);
+  delay(potvalue);
+  digitalWrite(2,HIGH);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,HIGH);
+  digitalWrite(8,HIGH);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,HIGH);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,HIGH);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,HIGH);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,HIGH);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,HIGH);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,HIGH);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,HIGH);
+  digitalWrite(8,HIGH);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+  digitalWrite(2,LOW);
+  digitalWrite(3,LOW);
+  digitalWrite(4,LOW);
+  digitalWrite(5,LOW);
+  digitalWrite(6,HIGH);
+  digitalWrite(7,LOW);
+  digitalWrite(8,LOW);
+  delay(potvalue);
+} 
+
+```
