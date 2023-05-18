@@ -32,6 +32,22 @@
 #### COMPONENTS REQUIRED
 ![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY3-23.png)
 #### CODE
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(500); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(500); // Wait for 1000 millisecond(s)
+}
+```
 ## EXP 3
 ### DANCING LED USING ARDUINO 
 #### [CLICK HERE TO VIEW IN SITE](https://www.tinkercad.com/things/k6dwPI0tLT2-dancing-led-using-arduino/editel)
@@ -42,6 +58,28 @@
 #### COMPONENTS REQUIRED
 ![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY3-33.png)
 #### CODE
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(8,OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(8, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s) 
+  digitalWrite(8, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+
+```
 ## EXP 4
 ### DANCING LED USING ARDUINO 2 https://www.tinkercad.com/things/9nBmNP5Dtww-0-to-9-display-using-potentiometer/editel
 #### [CLICK HERE TO VIEW IN SITE](https://www.tinkercad.com/things/k6dwPI0tLT2-dancing-led-using-arduino-2/editel)
@@ -124,11 +162,12 @@ packet();
 ```
 # DAY 5 
 ## INTRODUCING DRONES BY NAVANEETH 3RD YEAR STUDENT OF ROBOTICS 
-#### INTRODUSING DRONES
-#### EXPLAINED ABOUT DRONES PARTS
-#### ALSO SPEAKED ABOUT THE TECHNICAL SPECIFICATION LIKE (THRUST,ALTITUDE,PROPELER DIAMENTION,WEIGHT MANAGEMENT)
-
-#### TO CONFIG THE DRONES WITH SOFTWARE NAMED AS MISSION PLANNER 
+#### 1- INTRODUSING DRONES
+#### 2- EXPLAINED ABOUT DRONES PARTS
+#### 3- ALSO SPEAKED ABOUT THE TECHNICAL SPECIFICATION LIKE (THRUST,ALTITUDE,PROPELER DIAMENTION,WEIGHT MANAGEMENT)
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY5.jpg)
+#### 4- TO CONFIG THE DRONES WITH SOFTWARE NAMED AS MISSION PLANNER 
+## RELATED PROGRAMS ARE SHOWN BELOW
 ## EXP 1 
 ### POTENTIOMETER READING
 #### [CLICK HERE VIEW IN SITE](https://www.tinkercad.com/things/k6dwPI0tLT2-POT/editel)
