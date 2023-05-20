@@ -414,7 +414,7 @@ void loop()
   digitalWrite(7,LOW);
   digitalWrite(8,LOW);
   delay(potvalue);
-  digitalWrite(2,LOW);
+  digitalWrite(2,LOW);.
   digitalWrite(3,LOW);
   digitalWrite(4,LOW);
   digitalWrite(5,HIGH);
