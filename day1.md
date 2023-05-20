@@ -478,7 +478,7 @@ void loop() {
 #### CIRCUIT DIAGRAM
 ![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-21.png)
 #### SCHEMATIC DIAGRAM 
-![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-22.png)
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/daty9-22.png)
 #### COMPONENTS REQUIRED
 ![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-23.png)
 #### CODE
