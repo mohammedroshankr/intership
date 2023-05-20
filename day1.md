@@ -472,3 +472,59 @@ void loop() {
   }
 }
 ```
+## EXP 2
+### SIGNAL LIGHT USING PUSHBUTTON AND ARDUINO
+#### [CLICK HERE TO VIEW IN SITE](https://www.tinkercad.com/things/eYFkRNvet8A-signal-light-using-push-button/editel)
+#### CIRCUIT DIAGRAM
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-21.png)
+#### SCHEMATIC DIAGRAM 
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-22.png)
+#### COMPONENTS REQUIRED
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/day9-23.png)
+#### CODE
+```
+const int buttonPin1 = 2; // the number of the pushbutton pin
+const int buttonPin2 = 4;
+const int buttonPin3 = 7;
+const int greenledPin =  13;      // the number of the LED pin
+const int yellowledPin =  12;
+const int redledPin =  8;
+
+// variables will change:
+int buttonState1 = 0;         // variable for reading the pushbutton status
+int buttonState2 = 0; 
+int buttonState3 = 0; 
+
+void setup() {
+  pinMode(greenledPin, OUTPUT);
+  pinMode(buttonPin1, INPUT);
+  pinMode(yellowledPin, OUTPUT);
+  pinMode(buttonPin2, INPUT);
+  pinMode(redledPin, OUTPUT);
+  pinMode(buttonPin3, INPUT);
+}
+
+void loop() {
+  buttonState3 = digitalRead(buttonPin1);
+
+  if (buttonState3 == HIGH) {
+    digitalWrite(greenledPin, HIGH);
+  } else {
+  digitalWrite(greenledPin, LOW);
+  }
+  buttonState3 = digitalRead(buttonPin2);
+
+  if (buttonState3 == HIGH) {
+    digitalWrite(yellowledPin, HIGH);
+  } else {
+  digitalWrite(yellowledPin, LOW);
+  }
+  buttonState3 = digitalRead(buttonPin3);
+
+  if (buttonState3 == HIGH) {
+    digitalWrite(redledPin, HIGH);
+  } else {
+  digitalWrite(redledPin, LOW);
+  }
+}
+```
