@@ -536,3 +536,5 @@ void loop() {
   }
 }
 ```
+# DAY 10
+## [ASSINGMENT]( https://github.com/ameeshilliasmv/intership/blob/main/assingment.md)
