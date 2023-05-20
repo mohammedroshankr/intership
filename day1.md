@@ -321,7 +321,7 @@ void loop()
 ## INTRODUSED THE YESKAWA ARM ROBOT
 ![IMG](https://github.com/ameeshilliasmv/intership/blob/main/img/DAY%207.jpeg)
 ###  1.THE INDRODUCTION OF YASKAWA AR1440
-### THEN INDRODUSED ABOUT THE ELECTRIC VEHICLE (EV)
+### 2. THEN INDRODUSED ABOUT THE ELECTRIC VEHICLE (EV)
 # DAY 8
 ## EXP 1
 ### DISPLAY 0-9 USING 7 SEGMENT AND POTENTIOMETER
@@ -433,3 +433,12 @@ void loop()
 } 
 
 ```
+# DAY 9
+## EXP 1
+### BLINKING LED USING PUSHBUTTON AND ARDUINO
+#### [CLICK HERE TO VIEW IN SITE](https://www.tinkercad.com/things/9nBmNP5Dtww-blinking-led-using-pushbutton/editel)
+#### CICUIT DIAGRAM
+
+#### SCHEMATIC DIAGRAM
+#### COMPONENTS REQUIRED
+#### CODE
