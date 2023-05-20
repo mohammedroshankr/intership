@@ -1,6 +1,14 @@
 # 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLAGE
 # DAY 1
 ## PROFILE
+![img](https://github.com/ameeshilliasmv/intership/blob/main/img/IMG-20220805-WA0031.jpg)
+### NAME           : AMEESH ILLIAS MV
+### ADDRESS        : MUSLIYAM VEETIL(H),PO BLANGAD ,CHAVAKKAD
+### PLACE          : CHAVAKKAD
+### CURRENT STATUS : STUDENT
+### QUALIFICATION  : DIPLOMA IN ENGINEERING
+### COURSE         : ELECTRONICS AND COMMUNICATION ENGINEERING
+### USED SITES     : 1) [LINKEDIN-](https://www.linkedin.com/in/ameesh-illias-mv-474b5a275/)
 # DAY 2
 ## EXP 1
 ### BLINKING LED
